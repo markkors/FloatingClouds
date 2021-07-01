@@ -16,3 +16,6 @@ This README would normally document whatever steps are necessary to get your app
 * How to run tests: Open in webbrowser
 * Deployment instructions: Copy / download
 
+### More information
+
+https://www.w3schools.com/cssref/pr_class_float.asp
